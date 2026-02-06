@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "Kuakata Grand Hotel & Sea Resort",
+    "location": "Beach Road, Kuakata",
+    "rent": "৳2500/night",
+    "image": "../assets/hotels/1.jpg",
+    "phone": "01768054889"
+  },
+  {
+    "id": 2,
+    "name": "Hotel Graver Inn International",
+    "location": "Main Road, Kuakata",
+    "rent": "৳2000/night",
+    "image": "https://i.imgur.com/NvC1FVp.jpg",
+    "phone": "01624430200"
+  },
+  {
+    "id": 3,
+    "name": "Hotel Sea Queen",
+    "location": "Near Beach, Kuakata",
+    "rent": "৳1800/night",
+    "image": "../assets/hotels/3.jpg",
+    "phone": "01768054889"
+  }
+]

@@ -1,0 +1,71 @@
+[
+  {
+    "id": 1,
+    "name": "Kuakata Express",
+    "type": "AC Bus Service",
+    "route": "Dhaka → Kuakata (Night Coach)",
+    "depart_time": "10:30 PM",
+    "arrival_time": "07:00 AM",
+    "duration": "≈ 8.5 hours",
+    "phone": "+8801712345670",
+    "rent": "৳950 per seat",
+    "features": [
+      "Air Conditioned coach",
+      "Wi‑Fi and charging port",
+      "Comfortable recliner seats",
+      "Snacks & bottle of water included"
+    ],
+    "image": "../assets/transports/1.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Patuakhali Travels",
+    "type": "Non‑AC Bus",
+    "route": "Barisal → Kuakata",
+    "depart_time": "09:00 AM & 09:00 PM",
+    "arrival_time": "01:00 PM & 01:00 AM",
+    "duration": "≈ 4 hours",
+    "phone": "+8801787654321",
+    "rent": "৳700 per seat",
+    "features": [
+      "Clean, well‑ventilated coaches",
+      "Stopover restaurant break",
+      "Friendly staff"
+    ],
+    "image": "../assets/transports/2.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Greenline Launch Service",
+    "type": "Launch / Ferry",
+    "route": "Dhaka → Patuakhali River Route",
+    "depart_time": "07:00 PM",
+    "arrival_time": "06:00 AM",
+    "duration": "≈ 11 hours",
+    "phone": "+8801999123456",
+    "rent": "৳1200 Cabin (per person)",
+    "features": [
+      "AC/Non‑AC cabins",
+      "Riverside view deck",
+      "Onboard restaurant & café"
+    ],
+    "image": "../assets/transports/3.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Kuakata Shuttle Micro Service",
+    "type": "Microbus Rental",
+    "route": "Local sight‑seeing & station transfer",
+    "depart_time": "Flexible (On Demand)",
+    "arrival_time": "Flexible (On Demand)",
+    "duration": "As per trip",
+    "phone": "+8801988456321",
+    "rent": "৳2500‑3500 per trip (Negotiable)",
+    "features": [
+      "A/C Microbus 6‑10 seats",
+      "Pick & Drop in any Kuakata location",
+      "Experienced local drivers"
+    ],
+    "image": "../assets/transports/4.jpg"
+  }
+]
